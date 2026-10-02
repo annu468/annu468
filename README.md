@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Anu Mahato 👋
 
-<!--
-**annu468/annu468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. Computer Science Student**  
+📍 **Salesian College (Autonomous), Siliguri Campus**
 
-Here are some ideas to get you started:
+I’m building my foundation in programming and core Computer Science concepts through coursework, practice, and small projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm Learning
+
+- C
+- Java
+- Python
+- HTML
+
+I’m currently focused on improving my programming fundamentals, problem-solving skills, and understanding of core Computer Science concepts.
+
+## 🚀 Projects
+
+### Student Result Management System in C
+My first C programming project — a console-based student result management system.
+
+🔗 [View the project](https://github.com/annu468/student-result-management-c)
+
+## 🌱 Areas I'm Exploring
+
+I’m interested in gradually exploring:
+
+- Software Development
+- Web Development
+- AI / Machine Learning
+- Data Science
+- Cybersecurity
+
+I’m still exploring these areas and have not chosen a specific specialization yet.
+
+## 🎯 My Goal
+
+To build a strong foundation in Computer Science, create practical projects, and grow my skills step by step.
+
+This profile will evolve as I learn, build, and gain practical experience.
